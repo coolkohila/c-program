@@ -7,7 +7,7 @@ int main(void)
 	int m,i;
 	scanf("%s",a);
 	m=strlen(a);
-	if(n%2==0)
+	if(m%2==0)
 	{
   
 		a[m/2]='*';
